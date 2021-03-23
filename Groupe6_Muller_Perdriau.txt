@@ -1,2 +1,8 @@
 Muller Elise
 Perdriau Leo
+Quand la branche "mon_fichier" a été crée, le fichier nommé par nos nom : 
+Groupe6_Muller_Perdriau.txt s'est automatiquement retrouvé sur la nouvelle branche
+par effet d'arborescence.
+En commit ce fichier dans la nouvelle branche et pas dans la branche master, 
+elle s'enregistre uniquement dans cette nouvelle branche "mon_fichier" et ne se retrouve pas
+dans la branche supérieur.  
